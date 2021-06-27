@@ -3,15 +3,11 @@ A C# Game Developed using Unity 3D and Free Assets from the Unity Asset Store. I
 
 ## A Basic Start Game
 
-<img src="p1.png"></img>
+<img src="Demo1.gif"></img>
 
-## Powerups Against Enemies Can Be Achieved
+## Meteorites Can Be Launched By Pressing 'm' and firing after you have got your powerup!
 
-<img src="p2.png"></img>
-
-## Meteorites Can Be Launched By Pressing 'm' and firing!
-
-<img src="p3.png"></img>
+<img src="Demo2.gif"></img>
 
 ## What it has.
 
